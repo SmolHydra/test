@@ -10,7 +10,7 @@ num2 = int(input("Enter another integer: "))
 result = multiply(num1,num2)
 print(f"{num1} x {num2} = {result}")
 
-def gen_pw(fname,lname,dob,punc):
-  pw = lname[0]+fname+str(dob)+punc
-  return pw
-print(gen_pw("Rukia","Kuchiki",1857,"?"))
+def gen_username(fname,lname,dob):
+  username = lname[0]+fname+str(dob)
+  return username
+print(gen_username("Rukia","Kuchiki",1857))
