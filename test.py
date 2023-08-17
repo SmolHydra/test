@@ -13,4 +13,4 @@ print(f"{num1} x {num2} = {result}")
 def gen_username(fname,lname,dob):
   username = lname[0]+fname+str(dob)
   return username
-print(gen_username("Rukia","Kuchiki",1857))  #dk her exact dob
+print(gen_username("Rukia","Kuchiki",1857))  #dk her exact dob, so guessed
