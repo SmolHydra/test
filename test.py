@@ -13,4 +13,13 @@ print(f"{num1} x {num2} = {result}")
 def gen_username(fname,lname,dob):
   username = lname[0]+fname+str(dob)
   return username
-print(gen_username("Rukia","Kuchiki",1857))  #dk her exact dob, so guessed
+print(gen_username("Rukia","Kuchiki",1857))
+
+def insult(name,adj):
+  if adj[0] in ["a","e","i","o","u"]:
+    return name + " is an " + adj
+  else:
+    return name + " is a " + adj
+name = input("Enter the name of the person you want to insult: ")
+adj = input("Enter a negative adjective: ")
+print(insult(name,adj))
