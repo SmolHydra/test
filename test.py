@@ -24,4 +24,4 @@ name = input("Enter the name of the person you want to insult: ")
 adj = input("Enter a negative adjective: ")
 print(insult(name,adj))
 
-print("idk what else to code")
+print("idk what else to code")  #probs need to learn more
