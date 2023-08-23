@@ -1,3 +1,5 @@
+#some random bits of code practice
+
 print("Hello world")
 def greet(name):
   print("Hello",name)
