@@ -27,3 +27,4 @@ adj = input("Enter a negative adjective: ")
 print(insult(name,adj))
 
 print("idk what else to code")  #probs need to learn more
+print("boom")
