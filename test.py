@@ -28,3 +28,4 @@ print(insult(name,adj))
 
 print("idk what else to code")  #probs need to learn more
 print("milady") #we like milady
+print("you've attracted an audience")
