@@ -15,7 +15,7 @@ print(f"{num1} x {num2} = {result}")
 def gen_username(fname,lname,dob):
   username = lname[0]+fname+str(dob)
   return username
-print(gen_username("Rukia","Kuchiki",1857))  #rough dob, never said real age in Bleach
+print(gen_username("Rukia","Kuchiki",1858))  #rough dob, never said real age in Bleach
 
 def insult(name,adj):
   if adj[0] in ["a","e","i","o","u"]:
