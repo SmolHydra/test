@@ -1,4 +1,4 @@
-#some random bits of code practice
+#random code
 
 print("Hello world")
 def greet(name):
