@@ -3,7 +3,7 @@
 print("Hello world")
 def greet(name):
   print("Hello",name)
-greet("hydra")
+greet("hydra1")
 
 def multiply(num1,num2):
   return num1*num2
