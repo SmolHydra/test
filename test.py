@@ -1,6 +1,6 @@
 #random code
 
-print("Hello world")
+print("Hello earth")
 def greet(name):
   print("Hello",name)
 greet("Rukia")
