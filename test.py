@@ -1,4 +1,4 @@
-#random code
+#random code playground
 
 print("Hello world")
 def greet(name):
