@@ -1,4 +1,4 @@
-#random code playground
+#random code
 
 print("Hello world")
 def greet(name):
@@ -26,8 +26,8 @@ name = input("Enter the name of the person you want to insult: ")
 adj = input("Enter a negative adjective: ")
 print(insult(name,adj))
 
-print("idk what else to code")  #probs need to learn more
-print("milady") #we like milady
+print("idk what else to code")
+print("milady")
 print("you've attracted an audience")
 print("steady lads")
 print("I fucked up")
@@ -38,4 +38,4 @@ print("A silent voice")
 print("Shouko")
 print("I've got some bad ideas")
 print("There is no tomorrow!")
-print("Annie Leonhart") #hot af
+print("Annie Leonhart")
